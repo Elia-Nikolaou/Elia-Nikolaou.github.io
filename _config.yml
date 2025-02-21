@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Elia Nikolaou"
 title_separator          : "-"
 name                     : &name "Elia Nikolaou"
-description              : &description "personal description"
+description              : &description "PhD Student"
 url                      : https://enicol09.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : ""
-repository               : "enicol09/enicol09.github.io"
+repository               : "enicol09.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
