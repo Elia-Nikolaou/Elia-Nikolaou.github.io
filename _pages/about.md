@@ -19,7 +19,7 @@ My research interests lie in **Formal Methods for Security, Privacy, and the int
 -------
 When I am not buried in research, you will find me lost in a good book 📚, out on a hike ⛰️, or wandering through the stars ✨— at least in theory, by reading about constellations and the universe. 🌌🔭 
 
-I am also a proud member of the [Scouts](https://www.scouts.org.uk/) since 2007, experiencing incredible adventures attending several international camps across the globe 🌍🏕️,
+I am also a proud member of the [Scouts](https://www.scouts.org.uk/) since 2007, experiencing incredible adventures and attending several international camps across the globe 🌍🏕️,
 
 <span style="color:#2A7190">Updates:</span>
 ==
