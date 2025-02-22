@@ -177,27 +177,49 @@
       }
     }
   }
-
+ 
   @media (max-width: 768px) {
-    /* Hide everything inside the sidebar except profile picture and name */
+    /* Make sidebar a row with image on left and name on right */
     .sidebar {
-      max-width: 100px; /* Make sidebar very small */
-      padding: 10px; /* Reduce padding */
+      max-width: 160px; /* Adjust width to fit both image & name */
+      display: flex; /* Enables row layout */
+      align-items: center; /* Vertically aligns items */
+      padding: 5px;
     }
   
-    /* Reduce avatar size */
+    /* Fix profile picture shape */
+    .author__avatar {
+      width: 40px; /* Set small image size */
+      height: 40px;
+      border-radius: 50%; /* Ensure it remains circular */
+      overflow: hidden; /* Prevents distortion */
+      flex-shrink: 0; /* Ensures the image does not stretch */
+      margin-right: 8px; /* Space between image & name */
+      display: flex; /* Centers the image inside */
+      align-items: center;
+      justify-content: center;
+    }
+  
     .author__avatar img {
-      width: 50px; /* Set small image width */
-      height: 50px; /* Set small image height */
+      width: 40px; /* Ensures perfect circle */
+      height: 40px;
+      border-radius: 50%;
+      object-fit: cover; /* Prevents image stretching */
+      display: block;
     }
   
-    /* Keep name but make it smaller */
+    /* Align name to the right of the image */
     .author__name {
       font-size: 12px; /* Make name smaller */
-      text-align: center; /* Center the name */
+      font-weight: bold;
+      text-align: left; /* Align text properly */
+      white-space: nowrap; /* Keep name on a single line */
+      overflow: hidden;
+      text-overflow: ellipsis;
+      flex-grow: 1; /* Allows text to take remaining space */
     }
   
-    /* Hide other sidebar elements */
+    /* Hide everything else */
     .sidebar p,
     .sidebar .author__bio,
     .sidebar .author__urls-wrapper,
