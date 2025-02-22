@@ -177,3 +177,32 @@
       }
     }
   }
+
+  @media (max-width: 768px) {
+    /* Hide everything inside the sidebar except profile picture and name */
+    .sidebar {
+      max-width: 100px; /* Make sidebar very small */
+      padding: 10px; /* Reduce padding */
+    }
+  
+    /* Reduce avatar size */
+    .author__avatar img {
+      width: 50px; /* Set small image width */
+      height: 50px; /* Set small image height */
+    }
+  
+    /* Keep name but make it smaller */
+    .author__name {
+      font-size: 12px; /* Make name smaller */
+      text-align: center; /* Center the name */
+    }
+  
+    /* Hide other sidebar elements */
+    .sidebar p,
+    .sidebar .author__bio,
+    .sidebar .author__urls-wrapper,
+    .sidebar .author__pronouns {
+      display: none;
+    }
+  }
+  
