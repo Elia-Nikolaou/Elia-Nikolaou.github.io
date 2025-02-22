@@ -29,6 +29,6 @@ I am also a proud member of the [Scouts](https://www.scouts.org.uk/) since 2007,
 
 <span style="color:#2A7190">Other Projects:</span>
 ==
-- 2022-[TRUSTID](https://trustid-project.eu/): Conducted research and development at [CognitiveUX](https://cognitiveux.com/), [UCY](https://www.ucy.ac.cy/?lang=en).
-- 2021-[Disaster Management]:(https://zenodo.org/records/5938343) Worked on a disaster classifier during my time at [KIOS](https://www.kios.ucy.ac.cy/), [UCY](https://www.ucy.ac.cy/?lang=en).
-- Additional Project: More of my work can be explored on [GitHub](https://github.com/enicol09)
+- 2022 - [TRUSTID](https://trustid-project.eu/): Conducted research and development at [CognitiveUX](https://cognitiveux.com/), [UCY](https://www.ucy.ac.cy/?lang=en).
+- 2021 - [Disaster Management](https://zenodo.org/records/5938343) Worked on a disaster classifier during my time at [KIOS](https://www.kios.ucy.ac.cy/), [UCY](https://www.ucy.ac.cy/?lang=en).
+- Additional Projects: More of my work can be explored on [GitHub](https://github.com/enicol09)
