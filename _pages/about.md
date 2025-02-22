@@ -20,15 +20,15 @@ When I am not buried in research, you will find me lost in a good book 📚, out
 I am also a proud member of the [Scouts](https://www.scouts.org.uk/) since 2007, where I have had the privilege of attending several international camps around the world 🌍🏕️!
 
 <span style="color:#2A7190">Updates:</span>
-====
+==
  - January 2025: I attended the 2025 [ACE-CSR Conference](https://ace-csr-conference.co.uk/) in Lancaster, where I had the exciting opportunity to present my first-ever research poster.
 
 <span style="color:#2A7190">Publications:</span>
-====
+==
 - I do not have any publications yet, but fingers crossed 🤞 hopefully, that will change soon!
 
 <span style="color:#2A7190">Other Projects:</span>
-====
+==
 - 2022-[TRUSTID](https://trustid-project.eu/): Conducted research and development at [CognitiveUX](https://cognitiveux.com/), [UCY](https://www.ucy.ac.cy/?lang=en).
 - 2021-[Disaster Management]:(https://zenodo.org/records/5938343) Worked on a disaster classifier during my time at [KIOS](https://www.kios.ucy.ac.cy/), [UCY](https://www.ucy.ac.cy/?lang=en).
 - Additional Project: More of my work can be explored on [GitHub](https://github.com/enicol09)

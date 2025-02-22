@@ -81,8 +81,8 @@
   .author__avatar {
     display: table-cell;
     vertical-align: top;
-    width: 100px; // Slightly increased for better visibility
-    height: 100px; // Ensures perfect roundness
+    width: 110px; // Slightly increased for better visibility
+    height: 110px; // Ensures perfect roundness
     border-radius: 50%; // Ensures image is always round
     overflow: hidden;
   
@@ -93,10 +93,10 @@
     }
   
     img {
-      max-width: 180px; // Slightly increased size for better clarity
-      height: 180px; // Maintains aspect ratio to prevent oval shape
+      max-width: 160px; // Slightly increased zoom
+      height: 160px; // Maintains aspect ratio
       border-radius: 50%; // Ensures round shape
-      object-fit: cover; // Ensures proper image filling
+      object-fit: cover; // Zooms in slightly while keeping proportions
   
       @include breakpoint($large) {
         padding: 5px;
@@ -177,4 +177,3 @@
       }
     }
   }
-  
