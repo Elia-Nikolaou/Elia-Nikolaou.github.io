@@ -178,12 +178,12 @@
     }
   }
  
-  @media (max-width: 768px) {
+  @media (max-width: 850px) {
     /* Make sidebar a row with image on left and name on right */
     .sidebar {
-      max-width: 160px; /* Adjust width to fit both image & name */
+      max-width: 200px; /* Adjust width to fit both image & name */
       display: flex; /* Enables row layout */
-      align-items: center; /* Vertically aligns items */
+      align-items: left; /* Vertically aligns items */
       padding: 5px;
     }
   
@@ -194,9 +194,9 @@
       border-radius: 50%; /* Ensure it remains circular */
       overflow: hidden; /* Prevents distortion */
       flex-shrink: 0; /* Ensures the image does not stretch */
-      margin-right: 8px; /* Space between image & name */
+      margin-right: 0px; /* Space between image & name */
       display: flex; /* Centers the image inside */
-      align-items: center;
+      align-items: left;
       justify-content: center;
     }
   
@@ -208,7 +208,6 @@
       display: block;
     }
   
-    /* Align name to the right of the image */
     .author__name {
       font-size: 12px; /* Make name smaller */
       font-weight: bold;
