@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+## My Resume: 
+
 ## 🎓 Education  
 ### 🎓 University Of Edinburgh, Edinburgh, UK  
 **PhD Candidate in Cybersecurity, Privacy, and Trust** *(Sep 2024 - Present)*  
@@ -50,8 +52,9 @@ redirect_from:
 ### **KIOS Research & Innovation Centre, University of Cyprus – Cyprus**  
 **Special Scientist Intern** *(Oct 2021 - Feb 2022)*  
 - Assisted in data collection and processing for research projects.  
-- Implemented ML algorithms for environmental disaster detection using drones.  
- ----------------------------------------------------------
+- Implemented ML algorithms for environmental disaster detection using drones. 
+
+----------------------------------------------------------
 
 ## 🚀 Projects  
 ### **TrustID Project** *(2020-1-EL01-KA226-HE-094869)*  
@@ -61,7 +64,8 @@ redirect_from:
 ### **Disaster Detector / Classifier**  
 🔗 [Project Link](https://explore.openaire.eu/search/software?pid=10.5281%2Fzenodo.5938343)  
 - Developed an ML-based disaster classifier for detecting fire, flood, and building disasters.  
- ----------------------------------------------------------
+
+----------------------------------------------------------
 
 ## 🏆 Awards  
 - **2024 - 2028**: DTA Scholarship, by UKRI.  
