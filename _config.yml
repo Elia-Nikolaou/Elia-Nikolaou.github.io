@@ -21,7 +21,7 @@ repository               : "enicol09.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "newprof.jpeg"
+  avatar           : "newprof.png"
   name             : "Elia Nikolaou"
   location         : "Edinburgh"
   employer         : "University Of Edinburgh"
