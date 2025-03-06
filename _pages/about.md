@@ -13,7 +13,6 @@ I am a **first-year PhD candidate** at the [University of Edinburgh](https://www
 
 Before that, I completed my MSc in Information Security at [UCL](https://www.ucl.ac.uk/) and I finished my final project under the supervision of [Philipp Jovanovic](https://profiles.ucl.ac.uk/75518-philipp-jovanovic), researching Distributed Key Generation algorithms.
 
-My research interests lie in **Formal Methods for Security, Privacy, and the intersection with Safety**. I am also interested in malware analysis and the theoretical foundations of security. Additionally, I have a keen interest in **Human-Computer Interaction** and its role in digital systems.
 
 <span style="color:gray">Hobbies:</span>
 -------
@@ -33,4 +32,4 @@ I am also a proud member of the [Scouts](https://www.scouts.org.uk/) since 2007,
 ==
 - 2022 - [TRUSTID](https://trustid-project.eu/): Conducted research and development at [CognitiveUX](https://cognitiveux.com/), [UCY](https://www.ucy.ac.cy/?lang=en).
 - 2021 - [Disaster Management](https://zenodo.org/records/5938343) Worked on a disaster classifier during my time at [KIOS](https://www.kios.ucy.ac.cy/), [UCY](https://www.ucy.ac.cy/?lang=en).
-- Additional Projects: More of my work can be explored on [GitHub](https://github.com/enicol09)
+- Additional Projects: More of my work can be explored on [GitHub](https://github.com/Elia-Nikolaou)
