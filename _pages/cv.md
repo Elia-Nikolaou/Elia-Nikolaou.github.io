@@ -71,7 +71,7 @@ redirect_from:
 
 ---
 
-## 🏆 Awards  
+## 🏆 Awards & Scholarships
 
 - **2025 – 2028**: Educational Grant – *A.G. Leventis Foundation*  
 - **2024 – 2028**: DTA Scholarship – *UKRI*  
