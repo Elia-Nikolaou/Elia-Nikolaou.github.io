@@ -6,9 +6,6 @@ redirect_from:
   - /resume
 ---
 
-# Curriculum Vitae  
-
----
 
 ## 🎓 Education  
 
